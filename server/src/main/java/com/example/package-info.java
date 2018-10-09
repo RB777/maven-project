@@ -1,5 +1,4 @@
 /* 
-* new file added
+* This is a package name
 */
 package com.example;
-
